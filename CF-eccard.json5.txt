@@ -1,0 +1,130 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "backgroundColor": "#000000",
+    "paddingAll": "20px",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://images.plurk.com/7nF58u4lpktx8cWo5fK8jb.png",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "align": "start",
+            "position": "relative",
+            "animated": true,
+            "size": "sm"
+          }
+        ],
+        "height": "100%"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 2,
+        "contents": [
+          {
+            "type": "text",
+            "text": "廖冠宇",
+            "color": "#ffffff",
+            "size": "xl",
+            "weight": "bold",
+            "align": "end"
+          },
+          {
+            "type": "text",
+            "text": "負責人",
+            "color": "#ffffff",
+            "size": "sm",
+            "align": "end",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "xxl",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "長富營造有限公司",
+                "color": "#ffffff",
+                "size": "lg",
+                "weight": "bold",
+                "align": "end"
+              },
+              {
+                "type": "text",
+                "text": "花蓮縣花蓮市建國路二段218號",
+                "color": "#ffffff",
+                "size": "xs",
+                "align": "end",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "地址",
+                  "uri": "https://maps.app.goo.gl/L32KpPZbQZMbpuyC8"
+                }
+              },
+              {
+                "type": "separator",
+                "color": "#c8a96e",
+                "margin": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "text",
+                "text": "0978606775",
+                "color": "#ffffff",
+                "size": "sm",
+                "align": "end",
+                "action": {
+                  "type": "uri",
+                  "label": "電話",
+                  "uri": "tel:0978606775"
+                }
+              },
+              {
+                "type": "text",
+                "text": "a525367@yahoo.com.tw",
+                "color": "#ffffff",
+                "size": "sm",
+                "align": "end",
+                "action": {
+                  "type": "uri",
+                  "label": "信箱",
+                  "uri": "mailto:a525367@yahoo.com.tw"
+                }
+              },
+              {
+                "type": "text",
+                "text": "https://pse.is/8cd2cs",
+                "color": "#ffffff",
+                "size": "sm",
+                "align": "end",
+                "action": {
+                  "type": "uri",
+                  "label": "網址",
+                  "uri": "https://pse.is/8cd2cs"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
