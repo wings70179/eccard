@@ -101,7 +101,7 @@
       {
         "type": "box",
         "layout": "horizontal",
-        "offsetTop": "45%",
+        "offsetTop": "113px",
         "contents": [
           {
             "type": "separator",
@@ -157,7 +157,6 @@
         ],
         "justifyContent": "center",
         "position": "relative",
-        "paddingTop": "32%",
         "flex": 3,
         "height": "50%"
       }
