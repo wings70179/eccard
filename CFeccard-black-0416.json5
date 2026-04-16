@@ -1,0 +1,166 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#000000",
+    "paddingAll": "25px",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/wings70179/eccard/refs/heads/main/CF-logo.png",
+                "size": "md",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "廖冠宇",
+                "color": "#ffffff",
+                "size": "xxl",
+                "weight": "bold",
+                "align": "end"
+              },
+              {
+                "type": "text",
+                "text": "長富營造有限公司 負責人",
+                "color": "#C8A96E",
+                "size": "sm",
+                "align": "end"
+              }
+            ],
+            "justifyContent": "flex-end"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "color": "#C8A96E",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "width": "50px",
+        "borderWidth": "2px",
+        "borderColor": "#C8A96E",
+        "height": "2px",
+        "position": "absolute",
+        "offsetTop": "143px",
+        "offsetStart": "25px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "手機",
+                "color": "#888888",
+                "size": "xs",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "0978-606-775",
+                "color": "#ffffff",
+                "size": "sm",
+                "flex": 5,
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0978606775"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "信箱",
+                "color": "#888888",
+                "size": "xs",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "a525367@yahoo.com.tw",
+                "color": "#ffffff",
+                "size": "sm",
+                "flex": 5,
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "mailto:a525367@yahoo.com.tw"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "地址",
+                "color": "#888888",
+                "size": "xs",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "花蓮縣花蓮市建國路二段218號",
+                "color": "#ffffff",
+                "size": "sm",
+                "flex": 5,
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "website",
+            "contents": [],
+            "color": "#888888",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://readdy.cc/preview/b0408e62-7359-44dd-a1ad-e35ce1db3a91/8400291/"
+            },
+            "size": "xs",
+            "decoration": "underline",
+            "flex": 1,
+            "position": "absolute",
+            "gravity": "bottom",
+            "offsetBottom": "0px",
+            "offsetEnd": "0px"
+          }
+        ]
+      }
+    ]
+  }
+}
