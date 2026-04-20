@@ -40,7 +40,8 @@
                 "text": "長富營造有限公司 負責人",
                 "color": "#C8A96E",
                 "size": "sm",
-                "align": "end"
+                "align": "end",
+                "wrap": true
               }
             ],
             "justifyContent": "flex-end"
