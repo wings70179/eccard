@@ -13,13 +13,12 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/wings70179/eccard/refs/heads/main/0618_%E9%95%B7%E5%AF%8C%E7%87%9F%E9%80%A0%20-.jpg",
-            "size": "md",
-            "aspectMode": "fit",
-            "aspectRatio": "1:1",
+            "url": "https://raw.githubusercontent.com/wings70179/eccard/refs/heads/main/LOGO_%E9%95%B7%E5%AF%8C%E7%87%9F%E9%80%A0(%E7%84%A1%E5%AD%97).jpeg",
+            "size": "sm",
             "gravity": "top",
-            "margin": "none",
-            "align": "start"
+            "align": "start",
+            "aspectRatio": "1:1",
+            "aspectMode": "fit"
           },
           {
             "type": "box",
@@ -101,7 +100,7 @@
       {
         "type": "box",
         "layout": "horizontal",
-        "offsetTop": "113px",
+        "offsetTop": "93px",
         "contents": [
           {
             "type": "separator",
