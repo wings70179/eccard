@@ -29,6 +29,14 @@
             "contents": [
               {
                 "type": "text",
+                "text": "負責人",
+                "size": "sm",
+                "align": "end",
+                "wrap": true,
+                "color": "#ffffff"
+              },
+              {
+                "type": "text",
                 "text": "廖冠宇",
                 "color": "#ffffff",
                 "size": "xxl",
@@ -37,7 +45,7 @@
               },
               {
                 "type": "text",
-                "text": "長富營造有限公司 負責人",
+                "text": "長富營造有限公司",
                 "color": "#C8A96E",
                 "size": "sm",
                 "align": "end",
